@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">YouTubeVideo</string>
+    <string name="title_text">Пример демонстрации работы YoutubePlayer:</string>
 </resources>
